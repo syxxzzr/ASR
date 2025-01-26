@@ -1,0 +1,6 @@
+/.conda/*
+/.idea/*
+/archive/*
+/pretrained_models/*
+/test/*
+/main.ipynb
